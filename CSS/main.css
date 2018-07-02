@@ -1,0 +1,102 @@
+body {
+  background-color: #fff;
+  color: #3F2021;
+  font-family: "Gill Sans MT";
+}
+
+.container-fluid {
+  text-align: right;
+}
+
+.clock {
+  margin: 15px 0 5px 20px;
+  font-family: "Gill Sans MT";
+  font-size: 25px;
+  color: #3F2021;
+  display: inline-block;
+  text-align: left;
+}
+
+.clock p {
+  margin: 0;
+}
+
+.Logo img {
+  height: 150px;
+  width:250px;
+}
+
+
+.Location {
+  border: 1px solid #3F2021;
+  border-radius: 2px;
+  background: none;
+  margin: 50px 30px;
+  font-size: 30px;
+  color: #3F2021;
+  width: 180px;
+}
+
+.btn {
+  background: none;
+}
+
+.User {
+  border: 1px solid #3F2021;
+  border-radius: 2px;
+  background: none;
+  padding: 5px;
+  margin: 20px 20px;
+  display: block;
+  font-size: 25px;
+  color: #3F2021;
+  width: 300px;
+  text-align: left;
+
+}
+
+.Pass {
+  border: none;
+  border-bottom: 1px solid #3F2021;
+  background: none;
+  padding: 5px;
+  margin: 20px 20px;
+  display: block;
+  font-size: 25px;
+  color: #3F2021;
+  width: 300px;
+}
+
+
+.Images {
+  background-image: url(../img/P5020269.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 100%;
+  height: 800px;
+  border: 1px solid #3F2021;
+  border-radius: 5px;
+  margin: 10px 0 10px 10px;
+}
+
+.Signin {
+  background-color: #3F2021;
+  border: 1px solid #3F2021;
+  border-radius: 2PX;
+  padding: 5px 20px;
+  margin: 10px 20px;
+  color: #fff;
+  display: block;
+  font-size: 25px;
+  width: 200px;
+  text-align: center;
+}
+
+.pattern {
+  background-image: url(../img/pattern4.jpg);
+  background-size: contain;
+  height: 150px;
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+}
